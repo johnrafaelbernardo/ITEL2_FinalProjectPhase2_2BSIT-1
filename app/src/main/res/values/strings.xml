@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Pinoy Recipe App</string>
+    <string name="title">Pinoy Recipes</string>
+    <string name="title2">SIGN IN</string>
+    <string name="welcome">Welcome to Cook-Up (Filipino Edition)</string>
+    <string name="welcomeText">Lets dive into some mouthwatering Filipino recipes! What are you in the mood for? Adobo? Sinigang? We have those classics ready to tantalize your taste buds.</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">Sign Out</string>
+    <string name="about_us">About Us</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="adobo">ADOBO</string>
+    <string name="sisig">SISIG</string>
+    <string name="menudo">MENUDO</string>
+    <string name="karekare">KARE-KARE</string>
+    <string name="bistek">BISTEK</string>
+    <string name="sinigang">SINIGANG</string>
+    <string name="kaldereta">KALDERETA</string>
+    <string name="chopsuey">CHOP-SUEY</string>
+    <string name="home">Home</string>
+    <string name="next">NEXT</string>
+
+</resources>
